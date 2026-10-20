@@ -29,3 +29,15 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Notebook test results
+*.pickle
